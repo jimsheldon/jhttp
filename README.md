@@ -31,4 +31,4 @@ It creates a self-contained, executable JAR in the `target` directory.
     
    
  
-# trigger
+# trigger it
